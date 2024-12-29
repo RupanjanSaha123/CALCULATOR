@@ -1,0 +1,1 @@
+This is my first project in the web development domain, and it is a simple, user-friendly calculator designed to perform basic arithmetic operations. Built with HTML, CSS, and JavaScript, this project aims to provide a straightforward interface for performing addition, subtraction, multiplication, and division.
